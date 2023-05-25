@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ionetodeleon&label=Profile%20views&color=0e75b6&style=flat" alt="ionetodeleon" /> </p>
 
-🚀 I’m currently working at [Mercado Libre](https://github.com/mercadolibre)
+🚀 I’m currently working at [Mercado Libre](https://mercadolibre.com/)
 
 🌱 I’m currently learning **data structures and problem solving at LeetCode**
 
